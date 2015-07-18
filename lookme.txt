@@ -3,4 +3,8 @@ i am very happy
 duanwangla 
 creating a new branch is quick AND simple
 git is a free software
+<<<<<<< Updated upstream
 repair bug
+=======
+repair bug
+>>>>>>> Stashed changes
